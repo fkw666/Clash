@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Clash
-# UPDATED: 2026.11.01 08:50:21
-# TOTAL: 110194
+# UPDATED: 2026.11.02 09:23:18
+# TOTAL: 110197
 
 payload:
   # ======= 手动维护规则 ========
@@ -17674,6 +17674,7 @@ payload:
   - +.bustoprint.com
   - +.bustruckexpo.com
   - +.busuanzi.cc
+  - +.busyming.com
   - +.but7.com
   - +.butair.com
   - +.butao.com
@@ -29682,6 +29683,7 @@ payload:
   - +.doubanio.com
   - +.doubao-dev.com
   - +.doubao.com
+  - +.doubaoapps.com
   - +.doubaocdn.com
   - +.doubaozhidao.com
   - +.doubean.com
@@ -109931,6 +109933,7 @@ payload:
   - +.zymc1.com
   - +.zymkcdn.com
   - +.zymkshop.com
+  - +.zymls.com
   - +.zyoffice.com
   - +.zyoo.net
   - +.zyoogame.com
