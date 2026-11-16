@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Clash
-# UPDATED: 2026.11.15 09:37:58
-# TOTAL: 110247
+# UPDATED: 2026.11.16 09:42:42
+# TOTAL: 110251
 
 payload:
   # ======= 手动维护规则 ========
@@ -129,6 +129,7 @@ payload:
   - communities.apple.com
   - configuration.apple.com
   - configuration.apple.com.akadns.net
+  - configuration.ls.apple.com
   - connectivitycheck.gstatic.com
   - crashlyticsreports-pa.googleapis.com
   - crl-lb.apple.com.akadns.net
@@ -345,10 +346,12 @@ payload:
   - msdprod-ad.download.prss.microsoft.com
   - msproduct.download.prss.microsoft.com
   - music.apple.com
+  - musicstatus.itunes.apple.com
   - musicstatus.music.apple.com
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
   - myvs.download.prss.microsoft.com
+  - mzstorekit.itunes.apple.com
   - np-edge.itunes.apple.com
   - ntp.aliyun.com
   - ntp.tencent.com
@@ -18589,6 +18592,7 @@ payload:
   - +.capsuleshanghai.com
   - +.captain-cro.com
   - +.captainbi.com
+  - +.captive.apple.com
   - +.capturetheflag.fun
   - +.capvision.com
   - +.capwhale.com
