@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Clash
-# UPDATED: 2026.11.20 10:54:09
-# TOTAL: 110255
+# UPDATED: 2026.11.21 11:01:47
+# TOTAL: 110258
 
 payload:
   # ======= 手动维护规则 ========
@@ -31253,6 +31253,7 @@ payload:
   - +.echo-isoftstone.com
   - +.echo188.com
   - +.echoing.tech
+  - +.echooai.com
   - +.echoteen.com
   - +.echovelle.com
   - +.echu-cable.com
@@ -33500,6 +33501,7 @@ payload:
   - +.fayufaguo.com
   - +.fazhi12368.com
   - +.fazhijx.com
+  - +.fazhipro.com
   - +.fazz.fun
   - +.fb32dc52302e6b9b.com
   - +.fb46cd5483f029aa.com
@@ -77122,6 +77124,7 @@ payload:
   - +.saaas.com
   - +.saagasports.com
   - +.saasddos.com
+  - +.saasfz.com
   - +.saaslb.com
   - +.saasops.tech
   - +.saasruanjian.com
